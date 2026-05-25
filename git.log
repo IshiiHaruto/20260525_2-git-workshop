@@ -1,0 +1,56 @@
+commit cb2e03ad51f0d2a2e054bdefce0180c2960bd1ad
+Author: Limiumu <start.star14rime@gmail.com>
+Date:   Mon May 25 14:05:07 2026 +0900
+
+    Update tetris.js
+
+commit 44ab7b32aa73954e7c6bc5a1f95343834d18ac6a
+Author: Limiumu <start.star14rime@gmail.com>
+Date:   Mon May 25 14:03:03 2026 +0900
+
+    Update tetris.js
+
+commit b02373ce34c75bca617bd60e65f8ae3ce24e1dec
+Merge: 1b9ea9b 6a83d26
+Author: Limiumu <start.star14rime@gmail.com>
+Date:   Mon May 25 14:01:54 2026 +0900
+
+    Update tetris.js
+
+commit 1b9ea9b3551c070d21be76f0710e117d7700cb21
+Author: Limiumu <start.star14rime@gmail.com>
+Date:   Mon May 25 13:58:23 2026 +0900
+
+    blueをskyblueに変更
+
+commit 6a83d2659a8e1cd936c1a443e62f3e6a47172117
+Author: Ishii Haruto <start.star14rime@gmail.com>
+Date:   Mon May 25 13:57:00 2026 +0900
+
+    syanをskyblueに変更
+
+commit a1e74c160549fb025eaa60dc68bb398649a82244
+Author: Limiumu <start.star14rime@gmail.com>
+Date:   Mon May 25 13:52:17 2026 +0900
+
+    Update tetris.js
+
+commit c11ab0a05cf242c81cf61ad10598e987d17ba8b2
+Author: Limiumu <start.star14rime@gmail.com>
+Date:   Mon May 25 13:49:17 2026 +0900
+
+    インターバル延長
+    
+    400から1000に変更しました。
+
+commit 6572df4126a3dd45a7736058172440d3fdce7e15
+Author: Limiumu <start.star14rime@gmail.com>
+Date:   Mon May 25 13:43:16 2026 +0900
+
+     ミノの色変更
+
+commit 9bf32f8250b70e56e710ee51b282932e49dd0b4d
+Author: Limiumu <start.star14rime@gmail.com>
+Date:   Mon May 25 13:29:25 2026 +0900
+
+    ソースコードをインポート
